@@ -1,0 +1,8 @@
+{
+  "name": "Mum's Shopping",
+  "short_name": "Mum's Shop",
+  "start_url": "./index.html#house",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#2f6f4f"
+}
